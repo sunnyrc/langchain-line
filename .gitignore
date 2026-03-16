@@ -16,3 +16,4 @@ __pycache__
 .idea
 CLAUDE.md
 test.md
+dist/
